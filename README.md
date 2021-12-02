@@ -31,7 +31,8 @@ print("Swapped values are:",n1,n2)
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully
+
 
 
 
